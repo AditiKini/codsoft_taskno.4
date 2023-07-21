@@ -3,6 +3,7 @@
 📝 Task Overview:
 For Task 2, I was assigned to develop a sales prediction model using Python. The goal was to analyze historical sales data and build a machine learning model that 
 could accurately predict future sales.
+
 💡 Approach:
 To tackle this project, I followed a systematic approach:
 
